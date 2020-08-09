@@ -106,7 +106,7 @@ body{
 }
 .design3 .wearmask p{
     font-family: 'Baloo 2', cursive;
-    font-size: 30px;
+    font-size: 20px;
     color: #3152BC;
     float: left;
     margin: 10% 0px 0px 10%;
@@ -117,7 +117,7 @@ body{
 }
 .washhands p{
     font-family: 'Baloo 2', cursive;
-    font-size: 28px;
+    font-size: 20px;
     color: #3152BC;
     float: right;
     margin: 15% 0% 0px 0px;
@@ -128,7 +128,7 @@ body{
 }
 .covercough p{
     font-family: 'Baloo 2', cursive;
-    font-size: 25px;
+    font-size: 20px;
     color: #3152BC;
     float: left;
     width: 40%;
@@ -140,7 +140,7 @@ body{
 }
 .contact p{
     font-family: 'Baloo 2', cursive;
-    font-size: 25px;
+    font-size: 20px;
     color: #3152BC;
     float: right;
     margin: 10% 5% 0px 0px;
