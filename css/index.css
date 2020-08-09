@@ -117,10 +117,10 @@ body{
 }
 .washhands p{
     font-family: 'Baloo 2', cursive;
-    font-size: 30px;
+    font-size: 28px;
     color: #3152BC;
     float: right;
-    margin: 15% 5% 0px 0px;
+    margin: 15% 0% 0px 0px;
 }
 .design5 .cough{
     width: 50%;
@@ -128,11 +128,11 @@ body{
 }
 .covercough p{
     font-family: 'Baloo 2', cursive;
-    font-size: 30px;
+    font-size: 25px;
     color: #3152BC;
     float: left;
     width: 40%;
-    margin: 10% 0px 70px 10px;
+    margin: 10% 0px 50px 10px;
 }
 .design6 .handshake{
     float: left;
@@ -140,7 +140,7 @@ body{
 }
 .contact p{
     font-family: 'Baloo 2', cursive;
-    font-size: 30px;
+    font-size: 25px;
     color: #3152BC;
     float: right;
     margin: 10% 5% 0px 0px;
